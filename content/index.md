@@ -1,62 +1,86 @@
----title: "Executive Law Command Center"---
+# ⚖️ Executive Law Command Center
 
-Core Persona
+### International Law · Economics · Finance · Languages · Strategic Learning
 
-Multidisciplinary Expert: International trade/financial law, economics, MBA fundamentals, and polyglot C2 fluency across English, Spanish, 
+A multidisciplinary knowledge and learning system integrating **international law, international economics, finance, languages, and strategic professional development** into a single executive-level knowledge hub.
 
-French, Korean, and Bahasa Malaysia.
+---
 
-Digital Nomad Professional: Operates fluidly from anywhere, balancing continuous learning, cross-disciplinary synthesis, and elite 
+## 🎯 Professional Profile
 
-consulting through a highly optimized personal knowledge management system.
+### Multidisciplinary Expertise
+International trade and financial law, international economics, corporate finance, MBA fundamentals, and multilingual communication across **English, Spanish, French, Korean, and Bahasa Malaysia**.
 
-Hardware Ecosystem: Always equipped with a MacBook, 11-inch iPad, 13-inch iPad, and iPhone.
+### 🌍 Digital-Nomad Professional
+A location-independent professional who combines continuous learning, cross-disciplinary research, legal-economic analysis, and strategic consulting through an optimized personal knowledge management system.
 
-System Prompt
+### 💻 Digital Knowledge Ecosystem
+Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and iPhone**, enabling research, writing, language learning, knowledge management, and professional work from anywhere.
 
-Act as an elite multidisciplinary polyglot, international legal-economic expert, and location-independent digital nomad. Synthesize 
+---
 
-advanced knowledge across law, economics, finance, and languages with absolute precision. Operate seamlessly across your mobile ecosystem 
+# 📚 Knowledge Hub
 
-(MacBook, dual iPads, and iPhone) to deliver executive-ready analysis, strategic consulting, and flawless cross-domain integration without 
+## ⚖️ 1. International Law & International Economics
 
-conversational filler or meta-introductions.
+[[international-trade-law|International Trade Law]]
 
-📚 Knowledge Hub Directory
-⚖️ 1. กฎหมายระหว่างประเทศ & เศรษฐกิจระหว่างประเทศ
+[[digital-financial-law|Digital Financial Law & Financial Innovation]]
 
-[[international-trade-law|กฎหมายการค้าระหว่างประเทศ (International Trade Law)]]
+[[international-economics|International Economics & Trade Policy]]
 
-[[digital-financial-law|กฎหมายการเงินดิจิทัล & นวัตกรรมทางการเงิน]]
+---
 
-[[international-economics|เศรษฐศาสตร์ระหว่างประเทศ & นโยบายการค้า]]
+## 🌐 2. Polyglot Language Hub
 
-🌐 2. คลังภาษาต่างประเทศ (Polyglot Hub)
+[[english-c2|English — C2 Academic & Legal Precision]]
 
-[[english-c2|English (C2 Academic & Legal Precision)]]
+[[spanish-c2|Español — C2 Mastery]]
 
-[[spanish-c2|Español (C2 Mastery)]]
+[[french-c2|Français — C2 Mastery]]
 
-[[french-c2|Français (C2 Mastery)]]
+[[korean-c2|한국어 — C2 Precision]]
 
-[[korean-c2|한국어 (C2 Precision)]]
+[[malay-c2|Bahasa Malaysia — C2 Competency]]
 
-[[malay-c2|Bahasa Malaysia (C2 Competency)]]
+---
 
-🎯 3. IELTS Band 9 Preparation
+## 🎯 3. IELTS Band 9 Preparation
 
-[[ielts-writing-task2|IELTS Writing Task 2: Academic & Structure]]
+[[ielts-writing-task2|IELTS Writing Task 2 — Academic Writing & Structure]]
 
-[[ielts-speaking|IELTS Speaking: Fluency & Coherence]]
+[[ielts-speaking|IELTS Speaking — Fluency & Coherence]]
 
-📈 4. การเงินและการลงทุน (Finance & Investment)
+---
+
+## 📈 4. Finance & Investment
 
 [[corporate-finance|Corporate Finance & MBA Fundamentals]]
 
-[[investment-strategies|กลยุทธ์การลงทุน & สินทรัพย์ดิจิทัล]]
+[[investment-strategies|Investment Strategies & Digital Assets]]
 
-🧠 5. Learn How to Learn (My Techniques)
+---
 
-[[obsidian-pkm|Personal Knowledge Management (PKM) ด้วย Obsidian]]
+## 🧠 5. Learn How to Learn
 
-[[learning-framework|Framework การเรียนรู้เร็วแบบ Polyglot & Legal Expert]]
+[[obsidian-pkm|Personal Knowledge Management with Obsidian]]
+
+[[learning-framework|Advanced Learning Framework — Polyglot & Legal Expertise]]
+
+---
+
+## 🔬 Core Integration
+
+**International Law**  
+↓  
+**International Economic Law**  
+↓  
+**Trade · Investment · Finance · Digital Economy**  
+↓  
+**Economics · Corporate Finance · Policy**  
+↓  
+**Languages · Diplomacy · Cross-Border Communication**  
+↓  
+**Strategic Analysis & Professional Practice**
+
+> **Objective:** Build deep, interconnected expertise rather than isolated knowledge.

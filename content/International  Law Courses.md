@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=GA8tKOxkRho&list=PLS_Z4pfZbyMGC9y7fP4kpOnzUpNsRf
 - ### International Economic Law | Introduction to International Economic Law  
 https://www.youtube.com/watch?v=mVwgD1oEJfY
 
+- ### Legal training courses
+https://www.british-legal-centre.com/take-a-free-trial-lesson
 
 
 

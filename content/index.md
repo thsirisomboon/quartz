@@ -78,9 +78,30 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 **Trade · Investment · Finance · Digital Economy**  
 ↓  
 **Economics · Corporate Finance · Policy**  
+
+# LEGAL
+
 ↓  
 **Languages · Diplomacy · Cross-Border Communication**  
 ↓  
 **Strategic Analysis & Professional Practice**
 
 > **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
+
+# LEGAL
+
+```mermaid
+flowchart TD
+    A[LEGAL] --> B[International Law]
+    A --> C[Legal Research]
+    A --> D[Legal Writing]
+
+    B --> E[Public International Law]
+    B --> F[International Economic Law]
+    B --> G[Human Rights]
+    B --> H[International Criminal Law]
+
+    F --> I[Trade Law]
+    F --> J[Investment Law]
+    F --> K[International Financial Law]
+```

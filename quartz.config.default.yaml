@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Thunchanok | Personal Knowledge Command Center"
+  pageTitle: "Thunchanok | Research & Knowledge Hub"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

@@ -20,7 +20,7 @@ AI Lookup
 
 ### All Categories
 
-0 Words
+500 Words
 
 Generate More Words via AI Export CSV
 
@@ -51,11 +51,11 @@ Roleplay Practice CEFR Placement Test
 
 Auto Audio Pronunciation
 
-CEFR Rating B1
+CEFR Rating C2
 
-Grammar Accuracy:8/10
+Grammar Accuracy:9/10
 
-Vocabulary Range:7/10
+Vocabulary Range:9/10
 
 Comprehension:9/10
 

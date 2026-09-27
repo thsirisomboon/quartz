@@ -1,3 +1,46 @@
-@use "./variables.scss" as *;
+/* ==========================================================
+   Ghibli-Inspired Pastel, Cream & Soft Brown Theme
+   Custom CSS for Quartz Academic Knowledge Hub
+   ========================================================== */
 
-// put your custom CSS here!
+:root {
+  /* Ghibli Natural & Warm Palette */
+  --light: #f7f4ec;        /* Soft cream background (กระดาษอุ่นๆ แบบจิบลิ) */
+  --lightgray: #e6dfd3;    /* Muted warm border color */
+  --gray: #b8aba0;         /* Soft earth tone for subtle text */
+  --darkgray: #5c534c;     /* Deep warm brown for main text (ไม่ดำสนิท ดูละมุนตา) */
+  --dark: #3b332e;         /* Dark brown for headers */
+  --secondary: #8c7355;    /* Warm vintage brown for links & highlights */
+  --tertiary: #b08d71;     /* Soft terracotta / warm beige for hover states */
+  --highlight: rgba(189, 154, 122, 0.15); /* Soft soft amber highlight */
+}
+
+/* Dark mode adjustments (optional: keeps a cozy night forest feel) */
+[saved-theme="dark"] {
+  --light: #2c2825;        /* Deep cozy earth background */
+  --lightgray: #423c38;
+  --gray: #8a7e76;
+  --darkgray: #e2ded8;
+  --dark: #f4f1ea;
+  --secondary: #d4b595;
+  --tertiary: #e6ccb2;
+  --highlight: rgba(212, 181, 149, 0.2);
+}
+
+/* General Styling Enhancements for a Soft Academic Look */
+body {
+  background-color: var(--light);
+  font-family: var(--sansFont);
+}
+
+/* Callout Box - Ghibli Soft Warm Vibe */
+.callout {
+  background-color: rgba(230, 223, 211, 0.4);
+  border-left: 4px solid var(--secondary);
+  border-radius: 6px;
+}
+
+/* Sidebar & Navigation Styling */
+.sidebar, .page-header {
+  background-color: transparent;
+}

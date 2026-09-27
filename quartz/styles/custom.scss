@@ -1,64 +1,100 @@
-/* ==========================================================
-   Ghibli Studio Pastel Theme for Quartz Website
-   ================================================---------- */
+/* ==========================================================================
+   Studio Ghibli Pastel Theme & Academic Typography for Thunchanok Hub
+   ================ ========================================================== */
 
-:root {
-  /* Ghibli-inspired soft pastel color palette */
-  --light: #fbf9f4 !important;           /* Soft cream background */
-  --lightgray: #e6ede6 !important;     /* Muted sage border/gray */
-  --gray: #9db29e !important;          /* Soft moss green */
-  --darkgray: #4a5d4e !important;      /* Deep forest text */
-  --dark: #2c3e30 !important;            /* Header / Main text color */
-  --secondary: #6b8e7b !important;     /* Soft sage/olive accent links */
-  --tertiary: #d4a373 !important;      /* Warm Ghibli wheat/gold accent */
-  --highlight: rgba(212, 163, 115, 0.2) !important;
-}
-
-/* Dark mode override (Soft twilight Ghibli tone) */
-[saved-theme="dark"] {
-  --light: #242b26 !important;
-  --lightgray: #344038 !important;
-  --gray: #7d9682 !important;
-  --darkgray: #d0d7d1 !important;
-  --dark: #f0f4f1 !important;
-  --secondary: #93b5a1 !important;
-  --tertiary: #e9c46a !important;
-}
-
-/* Global Body Styling & Rounded Corners for Soft Look */
+/* 1. Global Background & Ghibli Soft Color Palette */
 body {
-  background-color: var(--light) !important;
-  font-family: var(--sans-font);
+  background-color: #fcfbf7 !important; /* สีครีมอ่อนละมุนแบบกระดาษวินเทจ */
+  color: #4a453e !important;            /* สีน้ำตาลเข้มละมุนตา แทนสีดำสนิท */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 17px !important;           /* ปรับขนาดตัวอักษรให้อ่านง่าย ไม่เล็กเกินไป */
+  line-height: 1.8 !important;
 }
 
-/* Add a cute Ghibli floating spirit / corner illustration via CSS */
-body::after {
-  content: "🌿✨";
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  font-size: 28px;
-  background: var(--lightgray);
-  padding: 10px 14px;
-  border-radius: 50px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-  z-index: 999;
-  opacity: 0.85;
-  transition: transform 0.3s ease;
+/* 2. Soft Pastel Headings with Ghibli Vibes */
+h1, h2, h3, h4, h5, h6 {
+  color: #5c6b5e !important;            /* สีเขียวใบไม้อ่อนสไตล์จิบลิ */
+  font-weight: 700 !important;
+  letter-spacing: -0.01em;
 }
 
-body::after:hover {
-  transform: scale(1.1);
-  opacity: 1;
+h1 {
+  font-size: 2.2rem !important;
+  border-bottom: 2px dashed #d8e2dc !important; /* เส้นประสีพาสเทลละมุน */
+  padding-bottom: 0.3rem;
 }
 
-/* Soft Styling for Callout Boxes & Links */
-.callout {
-  border-radius: 12px !important;
-  border-left: 4px solid var(--secondary) !important;
-  background-color: rgba(107, 142, 123, 0.05) !important;
+h2 {
+  font-size: 1.6rem !important;
+  color: #708272 !important;
 }
 
-a.internal {
-  border-bottom: 1px dashed var(--secondary);
+h3 {
+  font-size: 1.25rem !important;
+  color: #8a9a86 !important;
+}
+
+/* 3. Links & Interactive Elements (Pastel Hover Effects) */
+a {
+  color: #7b9e87 !important;            /* สีเขียวพาสเทลสดใส */
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #e07a5f !important;            /* สีส้มอิฐพาสเทลเวลาเอาเมาส์ชี้ (อบอุ่นแบบบ้านจิบลิ) */
+  background-color: #f4d35e22 !important; /* ไฮไลต์สีเหลืองละมุนจางๆ */
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
+/* 4. Sidebar & Navigation Styling */
+.sidebar, .left, .right {
+  background-color: #f7f5ef !important; /* สีพื้นหลังแถบเมนูด้านข้างละมุนตา */
+  border-right: 1px solid #eae5d9 !important;
+}
+
+/* 5. Ghibli-Style Callout Boxes / Quotes */
+blockquote, .callout {
+  background-color: #fefae0 !important; /* สีเหลืองครีมพาสเทลอบอุ่น */
+  border-left: 4px solid #dda15e !important; /* ขอบสีส้มพาสเทลละมุน */
+  color: #606c38 !important;
+  border-radius: 8px;
+  padding: 12px 16px;
+}
+
+/* 6. Cute Ghibli-Themed Section Icons via CSS Pseudo-elements */
+/* หัวข้อหลักใส่ไอคอนธรรมชาติและสมุดบันทึกแบบจิบลิ */
+h1::before {
+  content: "🌿 ";
+}
+
+h2:nth-of-type(odd)::before {
+  content: "🌱 ";
+}
+
+h2:nth-of-type(even)::before {
+  content: "📚 ";
+}
+
+/* ตารางข้อมูล (Comparative Table) สไตล์พาสเทล */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ffffff !important;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+th {
+  background-color: #eef2ed !important;
+  color: #4f5d50 !important;
+  padding: 12px;
+  border-bottom: 2px solid #d8e2dc !important;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #f0ede6 !important;
 }

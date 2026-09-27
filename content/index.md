@@ -31,17 +31,17 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ---
 
-## 🌐[2. Polyglot Language Hub](https://www.meta.ai/prompt/2f3338e0-4f2e-4347-8fc9-305911c97b2f)
+## 🌐[2. Polyglot Language Hub]
 
-[[english-c2|English — C2 Academic & Legal Precision]]
+english-c2|English — C2 Academic & Legal Precision
 
-[[spanish-c2|Español — C2 Mastery]]
+spanish-c2|Español — C2 Mastery
 
-[[french-c2|Français — C2 Mastery]]
+french-c2|Français — C2 Mastery
 
-[[korean-c2|한국어 — C2 Precision]]
+korean-c2|한국어 — C2 Precision
 
-[[malay-c2|Bahasa Malaysia — C2 Competency]]
+malay-c2|Bahasa Malaysia — C2 Competency
 
 ---
 

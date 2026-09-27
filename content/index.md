@@ -68,26 +68,16 @@ Bahasa Malaysia
 
 ---
 
-## 🔬 Core Integration
+## My Treasure map 
 
 **International Law**  
-↓  
+            ↓  
 **International Economic Law**  
-↓  
+            ↓  
 **Trade · Investment · Finance · Digital Economy**  
-↓  
+            ↓  
 **Economics · Corporate Finance · Policy**  
 
-# LEGAL
-
-↓  
-**Languages · Diplomacy · Cross-Border Communication**  
-↓  
-**Strategic Analysis & Professional Practice**
-
-> **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
-
-# LEGAL
 
 ```mermaid
 flowchart TD
@@ -104,3 +94,6 @@ flowchart TD
     F --> J[Investment Law]
     F --> K[International Financial Law]
 ```
+> **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
+
+                    **By Thunchanok Sirisomboon**  

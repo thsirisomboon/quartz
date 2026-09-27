@@ -21,7 +21,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 # 📚 Knowledge Hub
 
-## ⚖️ 1. International Law & International Economics
+## ⚖️ [1. International Law & International Economics](https://thunchanok-law.th-sirisomboon.workers.dev)
 
 [[international-trade-law|International Trade Law]]
 

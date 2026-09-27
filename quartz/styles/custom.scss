@@ -1,46 +1,64 @@
 /* ==========================================================
-   Ghibli-Inspired Pastel, Cream & Soft Brown Theme
-   Custom CSS for Quartz Academic Knowledge Hub
-   ========================================================== */
+   Ghibli Studio Pastel Theme for Quartz Website
+   ================================================---------- */
 
 :root {
-  /* Ghibli Natural & Warm Palette */
-  --light: #f7f4ec;        /* Soft cream background (กระดาษอุ่นๆ แบบจิบลิ) */
-  --lightgray: #e6dfd3;    /* Muted warm border color */
-  --gray: #b8aba0;         /* Soft earth tone for subtle text */
-  --darkgray: #5c534c;     /* Deep warm brown for main text (ไม่ดำสนิท ดูละมุนตา) */
-  --dark: #3b332e;         /* Dark brown for headers */
-  --secondary: #8c7355;    /* Warm vintage brown for links & highlights */
-  --tertiary: #b08d71;     /* Soft terracotta / warm beige for hover states */
-  --highlight: rgba(189, 154, 122, 0.15); /* Soft soft amber highlight */
+  /* Ghibli-inspired soft pastel color palette */
+  --light: #fbf9f4 !important;           /* Soft cream background */
+  --lightgray: #e6ede6 !important;     /* Muted sage border/gray */
+  --gray: #9db29e !important;          /* Soft moss green */
+  --darkgray: #4a5d4e !important;      /* Deep forest text */
+  --dark: #2c3e30 !important;            /* Header / Main text color */
+  --secondary: #6b8e7b !important;     /* Soft sage/olive accent links */
+  --tertiary: #d4a373 !important;      /* Warm Ghibli wheat/gold accent */
+  --highlight: rgba(212, 163, 115, 0.2) !important;
 }
 
-/* Dark mode adjustments (optional: keeps a cozy night forest feel) */
+/* Dark mode override (Soft twilight Ghibli tone) */
 [saved-theme="dark"] {
-  --light: #2c2825;        /* Deep cozy earth background */
-  --lightgray: #423c38;
-  --gray: #8a7e76;
-  --darkgray: #e2ded8;
-  --dark: #f4f1ea;
-  --secondary: #d4b595;
-  --tertiary: #e6ccb2;
-  --highlight: rgba(212, 181, 149, 0.2);
+  --light: #242b26 !important;
+  --lightgray: #344038 !important;
+  --gray: #7d9682 !important;
+  --darkgray: #d0d7d1 !important;
+  --dark: #f0f4f1 !important;
+  --secondary: #93b5a1 !important;
+  --tertiary: #e9c46a !important;
 }
 
-/* General Styling Enhancements for a Soft Academic Look */
+/* Global Body Styling & Rounded Corners for Soft Look */
 body {
-  background-color: var(--light);
-  font-family: var(--sansFont);
+  background-color: var(--light) !important;
+  font-family: var(--sans-font);
 }
 
-/* Callout Box - Ghibli Soft Warm Vibe */
+/* Add a cute Ghibli floating spirit / corner illustration via CSS */
+body::after {
+  content: "🌿✨";
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 28px;
+  background: var(--lightgray);
+  padding: 10px 14px;
+  border-radius: 50px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  z-index: 999;
+  opacity: 0.85;
+  transition: transform 0.3s ease;
+}
+
+body::after:hover {
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+/* Soft Styling for Callout Boxes & Links */
 .callout {
-  background-color: rgba(230, 223, 211, 0.4);
-  border-left: 4px solid var(--secondary);
-  border-radius: 6px;
+  border-radius: 12px !important;
+  border-left: 4px solid var(--secondary) !important;
+  background-color: rgba(107, 142, 123, 0.05) !important;
 }
 
-/* Sidebar & Navigation Styling */
-.sidebar, .page-header {
-  background-color: transparent;
+a.internal {
+  border-bottom: 1px dashed var(--secondary);
 }

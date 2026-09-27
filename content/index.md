@@ -1,8 +1,13 @@
-# ⚖️ Executive Law Command Center
+# ⚖️ Executive Command Center
 
-### International Law · Economics · Finance · Languages · Strategic Learning
+### International Law · Economics · Finance · Languages 
 
-A multidisciplinary knowledge and learning system integrating **international law, international economics, finance, languages, and strategic professional development** into a single executive-level knowledge hub.
+A multidisciplinary knowledge and learning system integrating 
+- international law
+- international economics law 
+- international investment law
+- international financial law
+- languages
 
 ---
 
@@ -23,6 +28,8 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ## ⚖️ [1. International Law & International Economics](https://thunchanok-law.th-sirisomboon.workers.dev)
 
+[[international-law]][[international-law]]
+
 [[international-trade-law|International Trade Law]]
 
 [[digital-financial-law|Digital Financial Law & Financial Innovation]]
@@ -33,15 +40,15 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ## 🌐[2. Polyglot Language Hub]
 
-english-c2|English — C2 Academic & Legal Precision
+English — Academic & Legal Precision
 
-spanish-c2|Español — C2 Mastery
+Español 
 
-french-c2|Français — C2 Mastery
+Français 
 
-korean-c2|한국어 — C2 Precision
+한국어 
 
-malay-c2|Bahasa Malaysia — C2 Competency
+Bahasa Malaysia 
 
 ---
 
@@ -58,14 +65,6 @@ malay-c2|Bahasa Malaysia — C2 Competency
 [[corporate-finance|Corporate Finance & MBA Fundamentals]]
 
 [[investment-strategies|Investment Strategies & Digital Assets]]
-
----
-
-## 🧠 5. Learn How to Learn
-
-[[obsidian-pkm|Personal Knowledge Management with Obsidian]]
-
-[[learning-framework|Advanced Learning Framework — Polyglot & Legal Expertise]]
 
 ---
 

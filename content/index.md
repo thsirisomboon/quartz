@@ -33,7 +33,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ## 🌐 2. Polyglot Language Hub
 
-[[english-c2|English — C2 Academic & Legal Precision]]
+[[english-c2|English — C2 Academic & Legal Precision]](https://thunchanok-languages.th-sirisomboon.workers.dev)
 
 [[spanish-c2|Español — C2 Mastery]]
 

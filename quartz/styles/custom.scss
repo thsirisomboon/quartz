@@ -7,8 +7,8 @@ body {
   background-color: #fcfbf7 !important; /* สีครีมอ่อนละมุนแบบกระดาษวินเทจ */
   color: #4a453e !important;            /* สีน้ำตาลเข้มละมุนตา แทนสีดำสนิท */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 17px !important;           /* ปรับขนาดตัวอักษรให้อ่านง่าย ไม่เล็กเกินไป */
-  line-height: 1.8 !important;
+  font-size: 15px !important;           /* ปรับขนาดตัวอักษรให้อ่านง่าย น่ารักไม่ใหญ่มาก */
+  line-height: 1.5 !important;
 }
 
 /* 2. Soft Pastel Headings with Ghibli Vibes */
@@ -19,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.2rem !important;
-  border-bottom: 2px dashed #d8e2dc !important; /* เส้นประสีพาสเทลละมุน */
+  font-size: 1.2rem !important;
+  border-bottom: 1px dashed #d8e2dc !important; /* เส้นประสีพาสเทลละมุน */
   padding-bottom: 0.3rem;
 }
 

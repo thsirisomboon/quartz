@@ -96,4 +96,4 @@ flowchart TD
 ```
 > **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
 
-                    **By Thunchanok Sirisomboon**  
+**By Thunchanok Sirisomboon**  

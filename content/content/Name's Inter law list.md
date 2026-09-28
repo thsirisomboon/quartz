@@ -1,13 +1,11 @@
- # TABLE OF CONTENTS
+ ## TABLE OF CONTENTS
 ## Book One
-
 Chapter I  
 Charter of the United Nations and  
 Statute of the International Court of Justice
 
 - Charter of the United Nations
 - Statute of the International Court of Justice  
-
     Chapter II  
     Law of treaties
 - Vienna Convention on the law of treaties
@@ -56,7 +54,6 @@ concerning the compulsory settlement of disputes
 - Draft Articles on the status of the diplomatic courier and the diplomatic bag  
     not accompanied by diplomatic courier and draft optional protocols 
     
-
 Chapter V  
 International responsibility
 - Convention on international liability for damage caused by space objects 
@@ -141,7 +138,6 @@ Self-determination
 - Declaration on the granting of independence to colonial countries and peoples    
 - Permanent sovereignty over natural resources  
     
-
 (See also Declaration on principles of international law concerning friendly relations and co-operation among States in accordance with the Charter of the United Nations, Chapter VII, No. 31)
   
 Indigenous peoples

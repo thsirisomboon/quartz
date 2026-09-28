@@ -1,5 +1,5 @@
 - [[International  Law Courses]]
-- [[IRAC Courses]]
+- [[IRAC Method]]
 - [[Legal Research courses]]
 
 

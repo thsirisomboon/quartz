@@ -65,7 +65,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 
 
-				<img width="1408" height="768" alt="Gemini_Generated_Image_1z4hjl1z4hjl1z4h4" src="https://github.com/user-attachments/assets/80dec31a-6904-4d3b-a59f-a4ad0debd3db" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_1z4hjl1z4hjl1z4h4" src="https://github.com/user-attachments/assets/a7bb4a26-a873-496a-ac1e-86ce20978cf7" />
 
 
 

@@ -28,7 +28,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ## ⚖️ [1. International Law & International Economics](https://thunchanok-law.th-sirisomboon.workers.dev)
 
-[[international-law]][[international-law]]
+[[international-law]]
 
 [[international-trade-law|International Trade Law]]
 
@@ -38,7 +38,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 
 ---
 
-## 🌐[2. Polyglot Language Hub]
+## 🌐2. Polyglot Language Hub
 
 English — Academic & Legal Precision
 
@@ -95,5 +95,8 @@ flowchart TD
     F --> K[International Financial Law]
 ```
 > **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
+
+
+
 
 **By Thunchanok Sirisomboon**  

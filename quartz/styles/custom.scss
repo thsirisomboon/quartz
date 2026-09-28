@@ -1,100 +1,121 @@
 /* ==========================================================================
-   Studio Ghibli Pastel Theme & Academic Typography for Thunchanok Hub
-   ================ ========================================================== */
+   Executive Legal & Academic Theme (Authoritative, Sophisticated & Timeless)
+   ========================================================================== */
 
-/* 1. Global Background & Ghibli Soft Color Palette */
+/* 1. Global Background & Sophisticated Color Palette */
 body {
-  background-color: #fcfbf7 !important; /* สีครีมอ่อนละมุนแบบกระดาษวินเทจ */
-  color: #4a453e !important;            /* สีน้ำตาลเข้มละมุนตา แทนสีดำสนิท */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
-  font-size: 15px !important;           /* ปรับขนาดตัวอักษรให้อ่านง่าย น่ารักไม่ใหญ่มาก */
-  line-height: 1.5 !important;
+  background-color: #f8f9fa !important; /* Clean, crisp academic off-white */
+  color: #1a1e23 !important;             /* Deep charcoal for crisp, authoritative readability */
+  font-family: "Times New Roman", Times, Georgia, serif !important; /* Classic academic serif typography */
+  font-size: 16px !important;
+  line-height: 1.7 !important;
 }
 
-/* 2. Soft Pastel Headings with Ghibli Vibes */
+/* 2. Structured & Authoritative Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #5c6b5e !important;            /* สีเขียวใบไม้อ่อนสไตล์จิบลิ */
-  font-weight: 700 !important;
-  letter-spacing: -0.01em;
+  color: #111827 !important;            /* Deep executive slate */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important; /* Clean sans for structure */
+  font-weight: 600 !important;
+  letter-spacing: -0.02em;
 }
 
 h1 {
-  font-size: 1.2rem !important;
-  border-bottom: 1px dashed #d8e2dc !important; /* เส้นประสีพาสเทลละมุน */
-  padding-bottom: 0.3rem;
+  font-size: 1.8rem !important;
+  border-bottom: 2px solid #1e293b !important; /* Bold executive divider */
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
-  font-size: 1.6rem !important;
-  color: #708272 !important;
+  font-size: 1.4rem !important;
+  color: #334155 !important;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 0.3rem;
+  margin-top: 2rem;
 }
 
 h3 {
-  font-size: 1.25rem !important;
-  color: #8a9a86 !important;
+  font-size: 1.15rem !important;
+  color: #475569 !important;
 }
 
-/* 3. Links & Interactive Elements (Pastel Hover Effects) */
+/* 3. Refined Links & Subtle Interaction */
 a {
-  color: #7b9e87 !important;            /* สีเขียวพาสเทลสดใส */
+  color: #1e3a8a !important;            /* Classic legal navy blue */
   text-decoration: none !important;
+  border-bottom: 1px solid transparent;
   transition: all 0.2s ease-in-out;
 }
 
 a:hover {
-  color: #e07a5f !important;            /* สีส้มอิฐพาสเทลเวลาเอาเมาส์ชี้ (อบอุ่นแบบบ้านจิบลิ) */
-  background-color: #f4d35e22 !important; /* ไฮไลต์สีเหลืองละมุนจางๆ */
-  border-radius: 4px;
-  padding: 0 4px;
+  color: #1d4ed8 !important;
+  border-bottom: 1px solid #1d4ed8 !important; /* Sophisticated underline hover effect */
+  background-color: transparent !important;
+  padding: 0 !important;
 }
 
-/* 4. Sidebar & Navigation Styling */
+/* 4. Professional Sidebar Layout & Optimization */
 .sidebar, .left, .right {
-  background-color: #f7f5ef !important; /* สีพื้นหลังแถบเมนูด้านข้างละมุนตา */
-  border-right: 1px solid #eae5d9 !important;
+  background-color: #ffffff !important; /* Clean stark white executive sidebar */
+  border-right: 1px solid #e5e7eb !important;
 }
 
-/* 5. Ghibli-Style Callout Boxes / Quotes */
+@media (min-width: 1200px) {
+  .sidebar.left {
+    width: 260px !important;            /* Standard professional width */
+    min-width: 260px !important;
+  }
+  
+  .page > #quartz-body {
+    grid-template-columns: 260px minmax(0, 1fr) !important;
+  }
+}
+
+/* 5. Executive Callout Boxes & Legal Citations */
 blockquote, .callout {
-  background-color: #fefae0 !important; /* สีเหลืองครีมพาสเทลอบอุ่น */
-  border-left: 4px solid #dda15e !important; /* ขอบสีส้มพาสเทลละมุน */
-  color: #606c38 !important;
-  border-radius: 8px;
-  padding: 12px 16px;
+  background-color: #f1f5f9 !important; /* Neutral slate gray */
+  border-left: 4px solid #1e3a8a !important; /* Deep legal navy accent */
+  color: #0f172a !important;
+  border-radius: 0px;                   /* Sharp, precise architectural corners */
+  padding: 16px 20px;
+  font-family: "Times New Roman", Times, serif !important;
+  font-style: italic;
 }
 
-/* 6. Cute Ghibli-Themed Section Icons via CSS Pseudo-elements */
-/* หัวข้อหลักใส่ไอคอนธรรมชาติและสมุดบันทึกแบบจิบลิ */
-h1::before {
-  content: "🌿 ";
+/* 6. Remove Casual Emojis / Clean Institutional Standards */
+h1::before, h2::before {
+  content: none !important;             /* Removes informal cute icons for strict legal professionalism */
 }
 
-h2:nth-of-type(odd)::before {
-  content: "🌱 ";
-}
-
-h2:nth-of-type(even)::before {
-  content: "📚 ";
-}
-
-/* ตารางข้อมูล (Comparative Table) สไตล์พาสเทล */
+/* 7. Institutional Comparative Tables */
 table {
   width: 100%;
   border-collapse: collapse;
   background-color: #ffffff !important;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  border: 1px solid #cbd5e1;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  margin: 1.5rem 0;
 }
 
 th {
-  background-color: #eef2ed !important;
-  color: #4f5d50 !important;
-  padding: 12px;
-  border-bottom: 2px solid #d8e2dc !important;
+  background-color: #0f172a !important; /* Deep executive navy header */
+  color: #ffffff !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  padding: 12px 16px;
+  border: 1px solid #0f172a;
 }
 
 td {
-  padding: 10px 12px;
-  border-bottom: 1px solid #f0ede6 !important;
+  padding: 12px 16px;
+  border: 1px solid #e2e8f0 !important;
+  color: #334155 !important;
+  font-size: 0.95rem;
+}
+
+tr:nth-child(even) {
+  background-color: #f8fafc !important; /* Subtle zebra striping for data readability */
 }

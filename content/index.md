@@ -44,8 +44,7 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 - [[digital-financial-law|Digital Financial Law & Financial Innovation]]
 - [[international-economics|International Economics & Trade Policy]]
 ---
-## 🌐[2. Polyglot Language Hub](thunchanok-polyglot.th-sirisomboon.workers.dev)
-
+## 🌐[2.Polyglot Hub](https://thunchanok-polyglot.th-sirisomboon.workers.dev)
 - English — Academic & Legal Precision
 - Español 
 - Français 

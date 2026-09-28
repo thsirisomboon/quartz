@@ -91,8 +91,8 @@ flowchart TD
 > **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
 
 ## About me
-[[IT'S ME|IT'S ME]]
-[[Research Interests & Focus Areas|Research Interests & Focus Areas]]
+[[ME]]
+[[Research Interests and Focus Areas]]
 
 
 

@@ -43,23 +43,38 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 - [[international-trade-law|International Trade Law]]
 - [[digital-financial-law|Digital Financial Law & Financial Innovation]]
 - [[international-economics|International Economics & Trade Policy]]
+- FIND MY COURT
 ---
 ## 🌐[2.Polyglot Hub](https://thunchanok-polyglot.th-sirisomboon.workers.dev)
-- English — Academic & Legal Precision
-- Español 
-- Français 
-- 한국어 
-- Bahasa Malaysia 
+## - English 
+   - Legal English
+   - Vocabularies (Advanced)
+## - Languages            
+## - Español
+  - Basic
+  - Intermidiate
+  - Advanced
+## - Français
+   - Basic
+   - Intermidiate
+   - Advanced
+## - 한국어
+   - Basic
+   - Intermidiate
+## - Bahasa Malaysia
+   - Daily conversation 
 ---
 ## 🎯 3. IELTS Band 9 Preparation
+- A word a day (acedemic)
+- Dictionary
 - [[Listening]]
 - [[Reading ]]
 - [[Writing]]
 - [[Speaking]]
 ---
 ## 📈 4. Finance & Investment
-- [[corporate-finance|Corporate Finance & MBA Fundamentals]]
-- [[investment-strategies|Investment Strategies & Digital Assets]]
+- Corporate Finance & MBA Fundamentals
+- investment-strategies|Investment Strategies & Digital Assets
 ---
 ## My Treasure map 
 

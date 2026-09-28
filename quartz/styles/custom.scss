@@ -1,46 +1,78 @@
 /* ==========================================================================
-   Executive Legal & Academic Theme: Quiet Luxury (Navy, White & Ivory)
+   Executive Legal Grid Optimization: Balanced & Full-Width Proportions
    ========================================================================== */
 
-/* 1. Global Background & Sophisticated Palette */
-body {
-  background-color: #f7f6f2 !important; /* โทนสีครีมละมุนตา หรูหราแบบกระดาษพรีเมียม */
-  color: #1b263b !important;           /* สีกรมท่าเข้มเกือบดำ อ่านง่าย สุขุม */
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-  font-size: 16px !important;
-  line-height: 1.8 !important;
-  -webkit-font-smoothing: antialiased;
+/* 1. Main Grid Structure (Left Sidebar - Center Content - Right Sidebar) */
+.page > #quartz-body {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 1.5rem !important;
+  display: grid !important;
+  grid-template-columns: 260px minmax(0, 1fr) 300px !important;
+  gap: 2rem !important;
 }
 
-/* 2. Structured & Authoritative Headings */
+@media (max-width: 1400px) {
+  .page > #quartz-body {
+    grid-template-columns: 240px minmax(0, 1fr) 280px !important;
+  }
+}
+
+/* 2. Center Content Area (Full width, clean borders, professional padding) */
+.center, .page-content, article {
+  max-width: 100% !important;
+  width: 100% !important;
+  background-color: #ffffff !important;
+  padding: 2.5rem 3rem !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 2px 12px rgba(13, 27, 42, 0.03) !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* 3. Sidebars Setup (Sticky, neat, and structured) */
+.sidebar.left, .sidebar.right {
+  background-color: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  padding: 1.5rem 1rem !important;
+  height: fit-content;
+  position: sticky;
+  top: 2rem;
+  box-shadow: 0 2px 8px rgba(13, 27, 42, 0.02);
+}
+
+/* 4. Global Body & Typography Setup */
+body {
+  background-color: #f7f6f2 !important;
+  color: #1b263b !important;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  font-size: 16px !important;
+  line-height: 1.75 !important;
+}
+
+/* Headings & Elements Styling */
 h1, h2, h3, h4, h5, h6 {
   color: #0d1b2a !important;
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  font-family: "Inter", sans-serif !important;
   font-weight: 600 !important;
-  letter-spacing: -0.02em;
 }
 
 h1 {
   font-size: 2rem !important;
-  border-bottom: 2px solid #1b263b !important; /* เส้นกั้นสีกรมท่าเข้ม คมชัด เรียบหรู */
+  border-bottom: 2px solid #1b263b !important;
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
 }
 
 h2 {
-  font-size: 1.5rem !important;
-  color: #1b263b !important;
-  border-bottom: 1px solid #e0dcd0;
+  font-size: 1.4rem !important;
+  border-bottom: 1px solid #e2e8f0 !important;
   padding-bottom: 0.3rem;
   margin-top: 2rem;
 }
 
-h3 {
-  font-size: 1.2rem !important;
-  color: #415a77 !important;
-}
-
-/* 3. Refined Links & Subtle Interaction */
+/* Links */
 a {
   color: #1b263b !important;
   text-decoration: none !important;
@@ -50,44 +82,10 @@ a {
   &:hover {
     color: #415a77 !important;
     border-bottom: 1px solid #415a77 !important;
-    background-color: transparent !important;
   }
 }
 
-/* 4. Professional Sidebar & Layout Optimization (Wide & Minimalist) */
-.sidebar, .left, .right {
-  background-color: #ffffff !important;
-  border-right: 1px solid #e9e5dc !important;
-}
-
-/* ขยายความกว้างเนื้อหาให้อ่านเต็มตา ขอบบางลงแบบประณีต */
-.center, .page-content, article {
-  max-width: 1200px !important;
-  background-color: #ffffff !important;
-  padding: 3rem !important;
-  border: 1px solid #e9e5dc !important;
-  box-shadow: 0 4px 20px rgba(13, 27, 42, 0.03);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
-.page > #quartz-body {
-  max-width: 1700px !important;
-  margin: 0 auto !important;
-  padding: 0 1rem !important;
-}
-
-/* 5. Executive Callout Boxes & Legal Citations */
-blockquote, .callout {
-  background-color: #f1ede4 !important; /* ครีมอ่อนเข้มกว่าพื้นหลังเล็กน้อย แยกสัดส่วนชัดเจน */
-  border-left: 3px solid #1b263b !important;
-  color: #0d1b2a !important;
-  border-radius: 0px;
-  padding: 18px 22px;
-  margin: 1.5rem 0;
-}
-
-/* 6. Clean Institutional Tables */
+/* Tables */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -96,24 +94,17 @@ table {
   margin: 1.5rem 0;
 
   th {
-    background-color: #0d1b2a !important; /* กรมท่าพรีเมียม */
+    background-color: #0d1b2a !important;
     color: #ffffff !important;
-    font-weight: 500;
+    font-size: 0.85rem;
     text-transform: uppercase;
-    font-size: 0.8rem;
-    letter-spacing: 0.08em;
-    padding: 14px 18px;
-    border: 1px solid #0d1b2a;
+    letter-spacing: 0.05em;
+    padding: 12px 16px;
   }
 
   td {
-    padding: 14px 18px;
+    padding: 12px 16px;
     border: 1px solid #e9e5dc !important;
     color: #1b263b !important;
-    font-size: 0.95rem;
-  }
-
-  tr:nth-child(even) {
-    background-color: #faf9f6 !important; /* สลับสีด้วยครีมและน้ำตาลอ่อนหรูหราและสะอาด */
   }
 }

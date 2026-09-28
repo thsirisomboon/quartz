@@ -4,24 +4,24 @@
 
 /* 1. Global Background & Sophisticated Color Palette */
 body {
-  background-color: #f8f9fa !important; /* Clean, crisp academic off-white */
-  color: #1a1e23 !important;             /* Deep charcoal for crisp, authoritative readability */
-  font-family: "Times New Roman", Times, Georgia, serif !important; /* Classic academic serif typography */
+  background-color: #f8f9fa !important;
+  color: #1a1e23 !important;
+  font-family: "Times New Roman", Times, Georgia, serif !important;
   font-size: 16px !important;
   line-height: 1.7 !important;
 }
 
 /* 2. Structured & Authoritative Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #111827 !important;            /* Deep executive slate */
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important; /* Clean sans for structure */
+  color: #111827 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
   font-weight: 600 !important;
   letter-spacing: -0.02em;
 }
 
 h1 {
   font-size: 1.8rem !important;
-  border-bottom: 2px solid #1e293b !important; /* Bold executive divider */
+  border-bottom: 2px solid #1e293b !important;
   padding-bottom: 0.5rem;
   margin-bottom: 1.5rem;
 }
@@ -41,28 +41,28 @@ h3 {
 
 /* 3. Refined Links & Subtle Interaction */
 a {
-  color: #1e3a8a !important;            /* Classic legal navy blue */
+  color: #1e3a8a !important;
   text-decoration: none !important;
   border-bottom: 1px solid transparent;
   transition: all 0.2s ease-in-out;
-}
-
-a:hover {
-  color: #1d4ed8 !important;
-  border-bottom: 1px solid #1d4ed8 !important; /* Sophisticated underline hover effect */
-  background-color: transparent !important;
-  padding: 0 !important;
+  
+  &:hover {
+    color: #1d4ed8 !important;
+    border-bottom: 1px solid #1d4ed8 !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+  }
 }
 
 /* 4. Professional Sidebar Layout & Optimization */
 .sidebar, .left, .right {
-  background-color: #ffffff !important; /* Clean stark white executive sidebar */
+  background-color: #ffffff !important;
   border-right: 1px solid #e5e7eb !important;
 }
 
 @media (min-width: 1200px) {
   .sidebar.left {
-    width: 260px !important;            /* Standard professional width */
+    width: 260px !important;
     min-width: 260px !important;
   }
   
@@ -73,10 +73,10 @@ a:hover {
 
 /* 5. Executive Callout Boxes & Legal Citations */
 blockquote, .callout {
-  background-color: #f1f5f9 !important; /* Neutral slate gray */
-  border-left: 4px solid #1e3a8a !important; /* Deep legal navy accent */
+  background-color: #f1f5f9 !important;
+  border-left: 4px solid #1e3a8a !important;
   color: #0f172a !important;
-  border-radius: 0px;                   /* Sharp, precise architectural corners */
+  border-radius: 0px;
   padding: 16px 20px;
   font-family: "Times New Roman", Times, serif !important;
   font-style: italic;
@@ -84,7 +84,7 @@ blockquote, .callout {
 
 /* 6. Remove Casual Emojis / Clean Institutional Standards */
 h1::before, h2::before {
-  content: none !important;             /* Removes informal cute icons for strict legal professionalism */
+  content: none !important;
 }
 
 /* 7. Institutional Comparative Tables */
@@ -95,27 +95,27 @@ table {
   border: 1px solid #cbd5e1;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   margin: 1.5rem 0;
-}
 
-th {
-  background-color: #0f172a !important; /* Deep executive navy header */
-  color: #ffffff !important;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-  font-weight: 500;
-  text-transform: uppercase;
-  font-size: 0.85rem;
-  letter-spacing: 0.05em;
-  padding: 12px 16px;
-  border: 1px solid #0f172a;
-}
+  th {
+    background-color: #0f172a !important;
+    color: #ffffff !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    padding: 12px 16px;
+    border: 1px solid #0f172a;
+  }
 
-td {
-  padding: 12px 16px;
-  border: 1px solid #e2e8f0 !important;
-  color: #334155 !important;
-  font-size: 0.95rem;
-}
+  td {
+    padding: 12px 16px;
+    border: 1px solid #e2e8f0 !important;
+    color: #334155 !important;
+    font-size: 0.95rem;
+  }
 
-tr:nth-child(even) {
-  background-color: #f8fafc !important; /* Subtle zebra striping for data readability */
+  tr:nth-child(even) {
+    background-color: #f8fafc !important;
+  }
 }

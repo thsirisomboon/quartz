@@ -84,7 +84,7 @@ flowchart TD
 > **Objective:** Build deep, interconnected expertise rather than isolated knowledge.
 
 ## About me
-[[🌸IT'S ME🌸]]
+[[its-me|i'ts me]]
 [[📌 Research Interests & Focus Areas📌]]
 
 

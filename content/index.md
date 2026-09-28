@@ -5,6 +5,13 @@ A multidisciplinary knowledge and learning system integrating
 - international investment law
 - international financial law
 - languages
+
+
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_yawb9myawb9myawb" src="https://github.com/user-attachments/assets/2258d9bd-fc39-47d4-9ef7-d4137b7dd5b4" />
+
+
+
 ### 🌐 The Nexus of Law, Economy, and Global Discourse
 At the core of this digital repository lies a fundamental premise: **modern cross-border challenges cannot be solved through a single lens.**
 This system bridges these interconnected pillars to form a comprehensive legal and economic framework:
@@ -56,13 +63,10 @@ Designed to work seamlessly across a **MacBook, 11-inch iPad, 13-inch iPad, and 
 ---
 ## My Treasure map 
 
-						**International Law**  
-					            ↓  
-					**International Economic Law**  
-					            ↓  
-			**Trade · Investment · Finance · Digital Economy**  
-					            ↓  
-				**Economics · Corporate Finance · Policy**  
+
+
+				<img width="1408" height="768" alt="Gemini_Generated_Image_1z4hjl1z4hjl1z4h4" src="https://github.com/user-attachments/assets/80dec31a-6904-4d3b-a59f-a4ad0debd3db" />
+
 
 
 ```mermaid

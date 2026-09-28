@@ -4,7 +4,7 @@
 
 /* 1. Global Background & Sophisticated Palette */
 body {
-  background-color: #f7f6f2 !important; /* โทนสีครีมงาช้างอ่อนละมุนตา หรูหราแบบกระดาษพรีเมียม */
+  background-color: #f7f6f2 !important; /* โทนสีครีมละมุนตา หรูหราแบบกระดาษพรีเมียม */
   color: #1b263b !important;           /* สีกรมท่าเข้มเกือบดำ อ่านง่าย สุขุม */
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
   font-size: 16px !important;
@@ -72,7 +72,7 @@ a {
 }
 
 .page > #quartz-body {
-  max-width: 1500px !important;
+  max-width: 1700px !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
 }
@@ -114,6 +114,6 @@ table {
   }
 
   tr:nth-child(even) {
-    background-color: #faf9f6 !important; /* สลับสีด้วยครีมขาวสะอาด */
+    background-color: #faf9f6 !important; /* สลับสีด้วยครีมและน้ำตาลอ่อนหรูหราและสะอาด */
   }
 }

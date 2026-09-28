@@ -1,6 +1,10 @@
 	My academic and professional inquiries are driven by a deep commitment to mastering the legal and economic architecture that governs cross-border relations. Rather than passive topics of study, these areas represent my active research domains and future specialization pillars:
 
-![[Pasted image 20260928093701.png]]
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_e3yoee3yoee3yoee" src="https://github.com/user-attachments/assets/5d00bc58-c5b1-4232-a45d-0d0669fb5801" />
+
+
+
 ### 1. International Economic & Investment Law
 * **Investor-State Dispute Settlement (ISDS):** Analyzing arbitration mechanisms, state liability, and fair and equitable treatment (FET) standards.
 * **Bilateral Investment Treaties (BITs):** Examining capital protection frameworks, expropriation doctrines, and balancing state regulatory powers with foreign investor rights.
@@ -20,7 +24,12 @@
       My academic pursuits center on the complex intersections of international economic law, cross-border investment disputes, sovereign asset recovery, and comparative legal frameworks. Below are the core research domains and published academic literature that actively inform my inquiries and long-term scholarly development.
       
 
-![[Pasted image 20260928093827.png]]
+
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_iuprjtiuprjtiupr" src="https://github.com/user-attachments/assets/0346804c-c954-47d0-9930-9a15908232bd" />
+
+
+
 
 ## 🏛️ 1. Sovereign Asset Recovery, Enforcement, and State Immunity
 This domain examines the structural mechanisms, legal hurdles, and enforcement strategies involved in tracing, freezing, and recovering state assets across multiple international jurisdictions.
